@@ -19,7 +19,7 @@ let isheloggedin = false //boolean data type
 // object
 let num=169
 
-console.log(typeof "hitesh")
+console.log(typeof "kartikey")
 console.log(typeof num);
 console.log(typeof null); //object h isska type
 console.log(typeof undefined); // undefined
