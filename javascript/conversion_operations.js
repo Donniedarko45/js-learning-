@@ -19,7 +19,7 @@ let booleanIsLoggedIn = Boolean(isLoggedIn)
 
 // 1 => true; 0 => false
 // "" => false
-// "hitesh" => true
+// "kartikey" => true
 
 let someNumber = 33
 
@@ -41,7 +41,7 @@ let negValue = -value
 // console.log(2%3);
 
 let str1 = "hello"
-let str2 = "kartikey"
+let str2 = "kartikey "
 
 let str3 = str1 + str2
 // console.log(str3);
