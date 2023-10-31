@@ -48,8 +48,8 @@ let str3 = str1 + str2
 
 // console.log("1" + 2);
 // console.log(1 + "2");
-// console.log("1" + 2 + 2);
-// console.log(1 + 2 + "2");
+//console.log("1" + 2 + 2); //agar string pehle h toh sabko ekk jaisa treat karega 
+//console.log(1 + 2 + "2"); // agr string baad me h toh sabko pehle jod dega fir sum aur string print ho jayega
 
 // console.log( (3 + 4) * 5 % 3);
 
